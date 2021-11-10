@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RepasoCreacionVistaPorCodigo</string>
+    <string name="Guardar">Guardar</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="borrar">borrar</string>
+    <string-array name="ciclos">
+        <item>Selecciona uno</item>
+        <item>DAM</item>
+        <item>DAU</item>
+        <item>SMR</item>
+        <item>3D</item>
+    </string-array>
+</resources>
